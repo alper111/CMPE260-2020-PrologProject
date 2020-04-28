@@ -28,6 +28,6 @@ Other scripts are used to filter out some problematic facts. If you want to repr
 7. `python clean_albums.py`
 8. `python clean_artists.py`
 
-In order to make calls to Spotify API, you will need a token which can be obtained by registering an application to Spotify API. Look for the details [https://developer.spotify.com/documentation/web-api/](https://developer.spotify.com/documentation/web-api/)
+In order to make calls to Spotify API, you will need a token that can be obtained by registering an application to Spotify API. Look for the details [https://developer.spotify.com/documentation/web-api/](https://developer.spotify.com/documentation/web-api/)
 
 You can truncate albums and tracks using `truncate.py` if you want your knowledge base to be small.
